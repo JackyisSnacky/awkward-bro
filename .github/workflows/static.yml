@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jacqueline Stewart - Writer & English Educator</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+
+        body {
+            font-family: 'Open Sans', sans-serif;
+            background-color: #f9f9f9;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #ffcccb;
+            color: #333;
+            padding: 20px;
+            text-align: center;
+        }
+        nav {
+            background-color: #f3e5ab;
+            padding: 10px;
+            text-align: center;
+        }
+        nav a {
+            margin: 0 15px;
+            color: #333;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        .container {
+            padding: 20px;
+        }
+        .about, .contact, .resume {
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            margin-bottom: 20px;
+            padding: 20px;
+        }
+        footer {
+            background-color: #ffcccb;
+            color: #333;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Jacqueline Stewart</h1>
+        <p>Writer & English Educator</p>
+    </header>
+    <nav>
+        <a href="#about">About Me</a>
+        <a href="#contact">Contact</a>
+        <a href="#resume">Resume</a>
+    </nav>
+    <div class="container">
+        <section id="about" class="about">
+            <h2>About Me</h2>
+            <p>My name is Jacqueline Stewart, named after my paternal grandmother. I am passionate about writing, reading, and fostering creativity in others. As a writer and English educator, I strive to inspire aspiring writers to move beyond merely absorbing creation and to start creating their own works. I believe in the power of words to transform lives and aim to share this belief through my books and teaching.</p>
+        </section>
+        <section id="contact" class="contact">
+            <h2>Contact</h2>
+            <p>If you would like to get in touch with me, please reach out via email.</p>
+            <p><strong>Email:</strong> <a href="mailto:jacquelinestewart2003@gmail.com">jacquelinestewart2003@gmail.com</a></p>
+        </section>
+        <section id="resume" class="resume">
+            <h2>Resume</h2>
+            <p><strong>Education:</strong></p>
+            <ul>
+                <li>Crockett High School, Crockett, TX — High School Diploma (2018-2022, Rank: 2, GPA: 4.5)</li>
+                <li>Angelina College, Lufkin, TX — Dual Credit (2019-2022, GPA: 3.9)</li>
+                <li>Stephen F. Austin State University — Major: English Secondary Education (2022-Current, GPA: 4.0)</li>
+            </ul>
+            <p><strong>Experience:</strong></p>
+            <ul>
+                <li>Summer reading program instructor at Crockett Public Library (2021-2022)</li>
+                <li>Writing tutor at SFA Academic Assistance and Research Center (2023-2024)</li>
+            </ul>
+            <p><strong>Involvement:</strong></p>
+            <ul>
+                <li>Vice President of National Honor Society at Crockett High School</li>
+                <li>Yearbook Editor-in-chief at Crockett High School</li>
+                <li>President of Literature Club at Crockett High School</li>
+                <li>First chair clarinet and section leader at Crockett High School</li>
+                <li>President of SFA English Honor Society Sigma Tau Delta</li>
+                <li>Member of HUMID publication and MLK Day of Service at Stephen F. Austin State University</li>
+            </ul>
+            <p><strong>Skills:</strong></p>
+            <ul>
+                <li>Leadership and time management</li>
+                <li>Familiarity with different teaching methods</li>
+                <li>Strong interpersonal skills and technical knowledge</li>
+            </ul>
+            <p><strong>References:</strong></p>
+            <ul>
+                <li>Dr. Michael J. Martin, Department of English and Creative Writing (936) 468-2007, <a href="mailto:martinmj@sfasu.edu">martinmj@sfasu.edu</a></li>
+                <li>Dr. Sara Parks, Professor (936) 468-2239, <a href="mailto:Sara.parks@sfasu.edu">Sara.parks@sfasu.edu</a></li>
+                <li>Kay Winfield, Former AARC Program Director (936) 615-2283, <a href="mailto:winfieldkl@sfasu.edu">winfieldkl@sfasu.edu</a></li>
+            </ul>
+        </section>
+    </div>
+    <footer>
+        <p>&copy; 2024 Jacqueline Stewart</p>
+    </footer>
+</body>
+</html>
